@@ -1,1 +1,23 @@
-{}
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDelete": false,
+    "editor.fontLigatures": false,
+    "[prisma]": {
+        "editor.defaultFormatter": "Prisma.prisma",
+        "editor.formatOnSave":true,
+    },
+    "json.schemas": [
+
+    ],
+    "workbench.productIconTheme": "fluent-icons",
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Omni",
+    "tabnine.experimentalAutoImports": true,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "workbench.startupEditor": "none",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "eslint.validate": ["javascript"]
+
+}
